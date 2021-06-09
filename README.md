@@ -47,7 +47,7 @@ Overlapping Card elements.
 ```
 
 ## Resources Used
-* [Webpage Design Template](https://codepen.io/bramus/pen/PobmGme)
-The above template was used as the core structure but was modified to suit our needs.
+* [Webpage Design Template](https://codepen.io/bramus/pen/PobmGme) :
+This template was used as the core structure but was modified to suit our needs.
 * [Persona Design Template](https://xtensio.com/)
 * [Wireframes and Prototypes](https://www.figma.com/)
