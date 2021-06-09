@@ -22,7 +22,7 @@ validation checks : Folder containing screenshots of W3C and AChecker validation
 ## Note on CSS Validation Checks
 
 ```
-//add explanation here
+We are using a template as our basic design and all the css errors are from the template itself and they are actually correct since the original author is using custom properties to store certain values and access it with  `var()`.
 ```
 
 ## The following HTML and Styling Elements were used in our Case Study Webpage
