@@ -171,17 +171,17 @@ header {
 
 h1 {
 	font-weight: 600;
-	font-size: 3.5vw;
+	font-size: 4vw;
 }
 
 h2 {
-	font-weight: 400;
-	font-size: 2vw;
+	font-weight: bold;
+	font-size: 2.5vw;
 }
 
 h3 {
 	font-weight: bold;
-	font-size: 2vw;
+	font-size: 1.75vw;
 }
 
 p {
@@ -197,13 +197,24 @@ p {
     text-align: left;
 }
 
-.intro > h3 {
+.intro > h3, .intro > h2 {
     text-align: center;
 }
 
 .responsive {
     width: 100%;
     height: auto;
+}
+
+a {
+    color: rgb(255, 198, 92);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.indent {
+    position: relative;
+    margin-left: 2.5%;
 }
 
 aside {
