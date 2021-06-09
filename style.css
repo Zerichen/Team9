@@ -227,6 +227,8 @@ aside {
   border-color: azure;
 }
 
-aside p {
+aside > p,
+aside > ul {
   margin-bottom: 1em;
+  font-size: 1.5vw;
 }
