@@ -31,6 +31,7 @@
 	position: sticky;
 	top: 0;
 	padding-top: calc(var(--index) * var(--card-top-offset));
+    height: 900px;
 }
 
 @supports (animation-timeline: works) {
@@ -199,6 +200,7 @@ p {
 aside {
 	width: 50vw;
 	margin: 0 auto;
+    margin-top: 15%;
 	text-align: left;
 }
 
