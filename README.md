@@ -10,7 +10,22 @@ Hengxuan Dong
 Sherlin Mary Koshy
 ```
 
-## The following HTML and Styling Elements were used in our app
+### Repository Structure
+This repository is organized as follows:
+```
+index.html : Main Webpage to run
+style.css : Cascading Style Sheet for index.html
+images : Folder containing images used in webpage
+validation checks : Folder containing screenshots of W3C and AChecker validation checks
+```
+
+## Note on CSS Validation Checks
+
+```
+//add explanation here
+```
+
+## The following HTML and Styling Elements were used in our Case Study Webpage
 ### HTML Content
 ```
 - Images with descriptive alt text.
@@ -21,7 +36,7 @@ Sherlin Mary Koshy
 
 ### CSS Styling
 ```
-- Use of color elements for visually appealing texts and fonts.
+- Use of color elements for visually appealing hyperlinks.
 - Use of padding and margins for readability.
 ```
 
